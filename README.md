@@ -2,7 +2,7 @@
 AI competition to predict price fluctuation rate of agricultural products
 
 ### Models
-- Transformers
-- NLinear
-- DLinear
-- NLinear + DLinear
+- **Transformers**
+- **NLinear**
+- **DLinear**
+- **NLinear** + **DLinear**
